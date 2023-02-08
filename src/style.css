@@ -1,0 +1,39 @@
+.outdiv {
+    background-color: darkgrey;
+    margin: 20px;
+    padding: 12px 12px 20px 12px;
+}
+
+.mytablecss {
+    width: 100%;
+    border-spacing: 0 10px;
+    text-align: left;
+}
+
+.rowrow :last-child {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.rowrow :first-child {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.rowrow {
+    background-color: aliceblue;
+}
+
+.btn {
+    background-color: brown;
+    color: rgb(221, 226, 235);
+    border-radius: 25px;
+}
+
+.content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: auto;
+}
